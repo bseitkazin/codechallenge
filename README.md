@@ -8,7 +8,6 @@ This project created for code challenge.
 
 3. In the root of application make:
 
-[indent=0]
 ----
 	$ mvn spring-boot:run
 ----
